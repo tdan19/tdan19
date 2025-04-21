@@ -12,10 +12,7 @@ I'm a passionate Full-Stack Developer from Ethiopia
 - FLUTTER
   
 
-## 📫 How to reach me
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- Email: dan606193@email.com
+
 
 ## 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tdan19&show_icons=true&theme=radical)
